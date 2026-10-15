@@ -1,0 +1,17 @@
+# Maven / Spring Boot
+**/target/
+*.log
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.factorypath
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+tools/daily-push.log
