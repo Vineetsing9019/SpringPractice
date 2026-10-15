@@ -7,3 +7,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | Date | File | What I learned |
 |------|------|----------------|
 | 2026-10-15 | [EmployeeRepository.java](daily/2026-10-15/Relationship/src/main/java/com/itvedant/basics/one_many/EmployeeRepository.java) | Learning JPA entity relationships |
+| 2026-10-15 | [SecurityConfiguration.java](daily/2026-10-15/ShopKart/src/main/java/com/itvedant/shopkart/SecurityConfiguration.java) | Learning a Spring Boot e-commerce project |

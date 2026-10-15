@@ -1,1 +1,2 @@
 ﻿2026-10-15|C:\Users\Vineet\Downloads\Spring_Projects\Relationship\src\main\java\com\itvedant\basics\one_many\EmployeeRepository.java
+2026-10-15|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\main\java\com\itvedant\shopkart\SecurityConfiguration.java
