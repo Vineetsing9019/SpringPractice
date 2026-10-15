@@ -36,6 +36,20 @@ $Layers = @{
     'exception'    = 'exception handling'; 'exceptions' = 'exception handling'
 }
 
+# A file is pushed only if it has real code: after comments, package and imports, the class body is not
+# empty (or the type extends / implements something, e.g. a Spring Data repository).
+function Has-Code($path) {
+    $t = Get-Content $path -Raw -ErrorAction SilentlyContinue
+    if (-not $t) { return $false }
+    $t = [regex]::Replace($t, '(?s)/\*.*?\*/', '')
+    $t = [regex]::Replace($t, '(?m)//.*$', '')
+    $t = [regex]::Replace($t, '(?m)^\s*(package|import)\s+[^;]+;', '')
+    $open = $t.IndexOf('{'); $close = $t.LastIndexOf('}')
+    if ($open -lt 0 -or $close -le $open) { return $false }
+    $body = $t.Substring($open + 1, $close - $open - 1).Trim()
+    return [bool]($body -or $t.Substring(0, $open) -match '\b(extends|implements)\b')
+}
+
 function Log($msg) {
     $line = "{0:yyyy-MM-dd HH:mm:ss}  {1}" -f (Get-Date), $msg
     Add-Content -Path $Log -Value $line -Encoding utf8
@@ -70,7 +84,8 @@ try {
     $candidates = @(Get-ChildItem -Path $Source -Recurse -Filter *.java -File | Where-Object {
         $p = $_.FullName
         -not ($Skip | Where-Object { $p -like "*$_*" }) -and
-        -not ($done | Where-Object { $_.Split('|')[1] -eq $p })
+        -not ($done | Where-Object { $_.Split('|')[1] -eq $p }) -and
+        (Has-Code $p)
     })
     if (-not $candidates) { Log "No unpushed Spring classes left."; exit 0 }
 
