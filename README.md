@@ -11,3 +11,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-15 | [Car.java](daily/2026-10-15/basics/src/main/java/com/itvedant/basics/di/Car.java) | Learning Spring Boot basics |
 | 2026-10-15 | [SecurityDemoApplicationTests.java](daily/2026-10-15/SecurityDemo/src/test/java/com/itvedant/basics/SecurityDemoApplicationTests.java) | Learning testing Spring Security |
 | 2026-10-16 | [RelationshipApplication.java](daily/2026-10-16/Relationship/src/main/java/com/itvedant/basics/RelationshipApplication.java) | Learning JPA entity relationships |
+| 2026-10-16 | [DoctorRepository.java](daily/2026-10-16/Relationship/src/main/java/com/itvedant/basics/manytomany/DoctorRepository.java) | Learning JPA entity relationships |
