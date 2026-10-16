@@ -13,3 +13,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-16 | [RelationshipApplication.java](daily/2026-10-16/Relationship/src/main/java/com/itvedant/basics/RelationshipApplication.java) | Learning JPA entity relationships |
 | 2026-10-16 | [DoctorRepository.java](daily/2026-10-16/Relationship/src/main/java/com/itvedant/basics/manytomany/DoctorRepository.java) | Learning JPA entity relationships |
 | 2026-10-16 | [UserController.java](daily/2026-10-16/UserValidation/src/main/java/com/itvedant/uservalidations/controllers/UserController.java) | Learning REST controllers in bean validation in Spring |
+| 2026-10-16 | [Engine.java](daily/2026-10-16/basics/src/main/java/com/itvedant/basics/di/Engine.java) | Learning Spring Boot basics |
