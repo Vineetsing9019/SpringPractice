@@ -21,3 +21,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-19 | [User.java](daily/2026-10-19/ShopKart/src/main/java/com/itvedant/shopkart/models/User.java) | Learning entity models in a Spring Boot e-commerce project |
 | 2026-10-19 | [BeanDemo.java](daily/2026-10-19/basics/src/main/java/com/itvedant/basics/demo/BeanDemo.java) | Learning Spring Boot basics |
 | 2026-10-19 | [Cart.java](daily/2026-10-19/ShopKart/src/main/java/com/itvedant/shopkart/models/Cart.java) | Learning entity models in a Spring Boot e-commerce project |
+| 2026-10-19 | [Pet.java](daily/2026-10-19/PetAdoption/src/main/java/com/petadoption/model/Pet.java) | Learning entity models in a Spring Boot REST project |
