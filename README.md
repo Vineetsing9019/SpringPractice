@@ -18,3 +18,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-17 | [UserController.java](daily/2026-10-17/ShopKart/src/main/java/com/itvedant/shopkart/controller/UserController.java) | Learning REST controllers in a Spring Boot e-commerce project |
 | 2026-10-17 | [Employee.java](daily/2026-10-17/OrmDemo/src/main/java/com/itvedant/basics/models/Employee.java) | Learning entity models in ORM with Hibernate and JPA |
 | 2026-10-17 | [Doctor.java](daily/2026-10-17/Relationship/src/main/java/com/itvedant/basics/manytomany/Doctor.java) | Learning JPA entity relationships |
+| 2026-10-19 | [User.java](daily/2026-10-19/ShopKart/src/main/java/com/itvedant/shopkart/models/User.java) | Learning entity models in a Spring Boot e-commerce project |
