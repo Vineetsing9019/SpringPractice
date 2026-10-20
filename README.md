@@ -24,3 +24,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-19 | [Pet.java](daily/2026-10-19/PetAdoption/src/main/java/com/petadoption/model/Pet.java) | Learning entity models in a Spring Boot REST project |
 | 2026-10-19 | [UserService.java](daily/2026-10-19/UserValidation/src/main/java/com/itvedant/uservalidations/services/UserService.java) | Learning the service layer in bean validation in Spring |
 | 2026-10-20 | [UserService.java](daily/2026-10-20/ShopKart/src/main/java/com/itvedant/shopkart/services/UserService.java) | Learning the service layer in a Spring Boot e-commerce project |
+| 2026-10-20 | [ProductRepository.java](daily/2026-10-20/SecurityDemo/src/main/java/com/itvedant/security_demo1/repositories/ProductRepository.java) | Learning repositories in Spring Security |
