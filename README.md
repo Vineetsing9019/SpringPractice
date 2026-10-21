@@ -29,3 +29,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-20 | [PetAdoptionApplicationTests.java](daily/2026-10-20/PetAdoption/src/test/java/com/itvedant/basics/PetAdoptionApplicationTests.java) | Learning testing a Spring Boot REST project |
 | 2026-10-20 | [Department.java](daily/2026-10-20/Relationship/src/main/java/com/itvedant/basics/one_many/Department.java) | Learning JPA entity relationships |
 | 2026-10-21 | [ProductCruddApplication.java](daily/2026-10-21/ProductCrudd/src/main/java/com/itvedant/productcrudd/ProductCruddApplication.java) | Learning a Spring Boot CRUD REST API |
+| 2026-10-21 | [User.java](daily/2026-10-21/UserValidation/src/main/java/com/itvedant/uservalidations/models/User.java) | Learning entity models in bean validation in Spring |
