@@ -27,3 +27,4 @@
 2026-10-22|C:\Users\Vineet\Downloads\Spring_Projects\basics\src\main\java\com\itvedant\basics\demo\Bmw.java
 2026-10-22|C:\Users\Vineet\Downloads\Spring_Projects\OrmDemo\src\main\java\com\itvedant\basics\models\Person.java
 2026-10-22|C:\Users\Vineet\Downloads\Spring_Projects\UserSpringDataRestDemoUserValidation-1\src\main\java\com\itvedant\basics\repositories\UserRepository.java
+2026-10-22|C:\Users\Vineet\Downloads\Spring_Projects\UserSpringDataRestDemoUserValidation-1\src\test\java\com\itvedant\basics\UserSpringDataRestDemoUserValidation1ApplicationTests.java
