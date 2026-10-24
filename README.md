@@ -43,3 +43,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-24 | [BookRepository.java](daily/2026-10-24/BookManagement/src/main/java/com/bookmanagement/repository/BookRepository.java) | Learning repositories in Spring Data JPA |
 | 2026-10-24 | [Book.java](daily/2026-10-24/BookManagement/src/main/java/com/bookmanagement/models/Book.java) | Learning entity models in Spring Data JPA |
 | 2026-10-24 | [UserValidationApplication.java](daily/2026-10-24/UserValidation/src/main/java/com/itvedant/uservalidations/UserValidationApplication.java) | Learning bean validation in Spring |
+| 2026-10-24 | [Products.java](daily/2026-10-24/ShopKart/src/main/java/com/itvedant/shopkart/models/Products.java) | Learning entity models in a Spring Boot e-commerce project |
