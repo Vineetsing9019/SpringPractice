@@ -32,3 +32,4 @@
 2026-10-23|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\main\java\com\itvedant\shopkart\repositories\CartRepository.java
 2026-10-23|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\main\java\com\itvedant\shopkart\models\UserProjection.java
 2026-10-23|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\main\java\com\itvedant\shopkart\repositories\ProductRepository.java
+2026-10-24|C:\Users\Vineet\Downloads\Spring_Projects\BookManagement\src\main\java\com\bookmanagement\repository\BookRepository.java
