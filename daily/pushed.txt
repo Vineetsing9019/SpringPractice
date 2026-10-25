@@ -36,3 +36,4 @@
 2026-10-24|C:\Users\Vineet\Downloads\Spring_Projects\BookManagement\src\main\java\com\bookmanagement\models\Book.java
 2026-10-24|C:\Users\Vineet\Downloads\Spring_Projects\UserValidation\src\main\java\com\itvedant\uservalidations\UserValidationApplication.java
 2026-10-24|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\main\java\com\itvedant\shopkart\models\Products.java
+2026-10-25|C:\Users\Vineet\Downloads\Spring_Projects\basics\src\main\java\com\itvedant\basics\BasicsApplication.java
