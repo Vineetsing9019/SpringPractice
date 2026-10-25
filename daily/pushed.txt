@@ -39,3 +39,4 @@
 2026-10-25|C:\Users\Vineet\Downloads\Spring_Projects\basics\src\main\java\com\itvedant\basics\BasicsApplication.java
 2026-10-25|C:\Users\Vineet\Downloads\Spring_Projects\UserSpringDataRestDemoUserValidation-1\src\main\java\com\itvedant\basics\models\User.java
 2026-10-25|C:\Users\Vineet\Downloads\Spring_Projects\basics\src\test\java\com\itvedant\basics\BasicsApplicationTests.java
+2026-10-25|C:\Users\Vineet\Downloads\Spring_Projects\SecurityDemo\src\main\java\com\itvedant\security_demo1\models\Product.java

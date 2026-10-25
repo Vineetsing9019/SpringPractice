@@ -47,3 +47,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-25 | [BasicsApplication.java](daily/2026-10-25/basics/src/main/java/com/itvedant/basics/BasicsApplication.java) | Learning Spring Boot basics |
 | 2026-10-25 | [User.java](daily/2026-10-25/UserSpringDataRestDemoUserValidation-1/src/main/java/com/itvedant/basics/models/User.java) | Learning entity models in Spring Data REST with validation |
 | 2026-10-25 | [BasicsApplicationTests.java](daily/2026-10-25/basics/src/test/java/com/itvedant/basics/BasicsApplicationTests.java) | Learning testing Spring Boot basics |
+| 2026-10-25 | [Product.java](daily/2026-10-25/SecurityDemo/src/main/java/com/itvedant/security_demo1/models/Product.java) | Learning entity models in Spring Security |
