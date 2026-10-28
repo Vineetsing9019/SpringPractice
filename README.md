@@ -57,3 +57,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-27 | [PetRepository.java](daily/2026-10-27/PetAdoption/src/main/java/com/petadoption/repository/PetRepository.java) | Learning repositories in a Spring Boot REST project |
 | 2026-10-27 | [BookManagementApplication.java](daily/2026-10-27/BookManagement/src/main/java/com/bookmanagement/BookManagementApplication.java) | Learning Spring Data JPA |
 | 2026-10-28 | [Product.java](daily/2026-10-28/ProductCrudd/src/main/java/com/itvedant/productcrudd/models/Product.java) | Learning entity models in a Spring Boot CRUD REST API |
+| 2026-10-28 | [OrmDemoApplication.java](daily/2026-10-28/OrmDemo/src/main/java/com/itvedant/basics/OrmDemoApplication.java) | Learning ORM with Hibernate and JPA |
