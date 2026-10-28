@@ -51,3 +51,4 @@
 2026-10-28|C:\Users\Vineet\Downloads\Spring_Projects\ProductCrudd\src\main\java\com\itvedant\productcrudd\models\Product.java
 2026-10-28|C:\Users\Vineet\Downloads\Spring_Projects\OrmDemo\src\main\java\com\itvedant\basics\OrmDemoApplication.java
 2026-10-28|C:\Users\Vineet\Downloads\Spring_Projects\Relationship\src\main\java\com\itvedant\relationships\one_many\DepartmentProjection.java
+2026-10-28|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\test\java\com\itvedant\shopkart\ShopKartApplicationTests.java
