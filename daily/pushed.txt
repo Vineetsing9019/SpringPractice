@@ -48,3 +48,4 @@
 2026-10-27|C:\Users\Vineet\Downloads\Spring_Projects\ProductCrudd\src\main\java\com\itvedant\productcrudd\controllers\Controller.java
 2026-10-27|C:\Users\Vineet\Downloads\Spring_Projects\PetAdoption\src\main\java\com\petadoption\repository\PetRepository.java
 2026-10-27|C:\Users\Vineet\Downloads\Spring_Projects\BookManagement\src\main\java\com\bookmanagement\BookManagementApplication.java
+2026-10-28|C:\Users\Vineet\Downloads\Spring_Projects\ProductCrudd\src\main\java\com\itvedant\productcrudd\models\Product.java
