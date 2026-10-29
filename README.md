@@ -63,3 +63,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-29 | [ShopKartApplication.java](daily/2026-10-29/ShopKart/src/main/java/com/itvedant/shopkart/ShopKartApplication.java) | Learning a Spring Boot e-commerce project |
 | 2026-10-29 | [ProductService.java](daily/2026-10-29/ProductCrudd/src/main/java/com/itvedant/productcrudd/services/ProductService.java) | Learning the service layer in a Spring Boot CRUD REST API |
 | 2026-10-29 | [UserRepository.java](daily/2026-10-29/ShopKart/src/main/java/com/itvedant/shopkart/repositories/UserRepository.java) | Learning repositories in a Spring Boot e-commerce project |
+| 2026-10-29 | [OrmDemoApplicationTests.java](daily/2026-10-29/OrmDemo/src/test/java/com/itvedant/basics/OrmDemoApplicationTests.java) | Learning testing ORM with Hibernate and JPA |

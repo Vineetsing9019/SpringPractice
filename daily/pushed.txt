@@ -55,3 +55,4 @@
 2026-10-29|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\main\java\com\itvedant\shopkart\ShopKartApplication.java
 2026-10-29|C:\Users\Vineet\Downloads\Spring_Projects\ProductCrudd\src\main\java\com\itvedant\productcrudd\services\ProductService.java
 2026-10-29|C:\Users\Vineet\Downloads\Spring_Projects\ShopKart\src\main\java\com\itvedant\shopkart\repositories\UserRepository.java
+2026-10-29|C:\Users\Vineet\Downloads\Spring_Projects\OrmDemo\src\test\java\com\itvedant\basics\OrmDemoApplicationTests.java
