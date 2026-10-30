@@ -67,3 +67,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-30 | [Passport.java](daily/2026-10-30/OrmDemo/src/main/java/com/itvedant/basics/models/Passport.java) | Learning entity models in ORM with Hibernate and JPA |
 | 2026-10-30 | [DepartmentRepository.java](daily/2026-10-30/Relationship/src/main/java/com/itvedant/basics/one_many/DepartmentRepository.java) | Learning JPA entity relationships |
 | 2026-10-30 | [UserDto.java](daily/2026-10-30/ShopKart/src/main/java/com/itvedant/shopkart/models/UserDto.java) | Learning entity models in a Spring Boot e-commerce project |
+| 2026-10-30 | [SecurityDemoApplication.java](daily/2026-10-30/SecurityDemo/src/main/java/com/itvedant/security_demo1/SecurityDemoApplication.java) | Learning Spring Security |
