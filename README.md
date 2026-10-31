@@ -70,3 +70,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-30 | [SecurityDemoApplication.java](daily/2026-10-30/SecurityDemo/src/main/java/com/itvedant/security_demo1/SecurityDemoApplication.java) | Learning Spring Security |
 | 2026-10-31 | [PetAdoptionApplication.java](daily/2026-10-31/PetAdoption/src/main/java/com/petadoption/PetAdoptionApplication.java) | Learning a Spring Boot REST project |
 | 2026-10-31 | [ProductRepository.java](daily/2026-10-31/ProductCrudd/src/main/java/com/itvedant/productcrudd/repositories/ProductRepository.java) | Learning repositories in a Spring Boot CRUD REST API |
+| 2026-10-31 | [SecurityConfiguration.java](daily/2026-10-31/SecurityDemo/src/main/java/com/itvedant/security_demo1/SecurityConfiguration.java) | Learning Spring Security |
