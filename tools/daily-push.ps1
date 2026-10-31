@@ -10,7 +10,7 @@ $Pushed  = Join-Path $Repo 'daily\pushed.txt'
 $JavaPushed = 'D:\Practice\daily\pushed.txt'   # files JavaPractice already has are not pushed again
 $Source  = 'C:\Users\Vineet\Downloads\Spring_Projects'
 $Skip    = @('\target\', '\PetHaven\', '\.mvn\', '\bin\')
-$Secrets = @('Vinyy@2004')
+$Secrets = @(Get-Content 'D:\daily-push\secrets.txt' -ErrorAction SilentlyContinue | Where-Object { $_ })   # passwords to hide, one per line; the file is outside every repo
 $BS      = [string][char]92
 
 # Project folder -> topic it teaches.
