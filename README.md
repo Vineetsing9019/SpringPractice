@@ -72,3 +72,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-10-31 | [ProductRepository.java](daily/2026-10-31/ProductCrudd/src/main/java/com/itvedant/productcrudd/repositories/ProductRepository.java) | Learning repositories in a Spring Boot CRUD REST API |
 | 2026-10-31 | [SecurityConfiguration.java](daily/2026-10-31/SecurityDemo/src/main/java/com/itvedant/security_demo1/SecurityConfiguration.java) | Learning Spring Security |
 | 2026-10-31 | [MyUserDetailsService.java](daily/2026-10-31/ShopKart/src/main/java/com/itvedant/shopkart/MyUserDetailsService.java) | Learning a Spring Boot e-commerce project |
+| 2026-11-01 | [Product.java](daily/2026-11-01/ShopKart/src/main/java/com/itvedant/shopkart/Product.java) | Learning a Spring Boot e-commerce project |
