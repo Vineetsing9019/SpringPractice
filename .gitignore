@@ -15,3 +15,7 @@
 .DS_Store
 Thumbs.db
 tools/daily-push.log
+
+# My local push helper and its tracker stay on this PC
+tools/
+daily/pushed.txt
