@@ -78,3 +78,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-11-24 | [Token.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/models/Token.java) | Learning entity models in a Spring Boot e-commerce project |
 | 2026-11-24 | [ProductProjection.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/models/ProductProjection.java) | Learning entity models in a Spring Boot e-commerce project |
 | 2026-11-24 | [JwtTokenFilter.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/JwtTokenFilter.java) | Learning a Spring Boot e-commerce project |
+| 2026-11-24 | [MyUserDetailsService.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/services/MyUserDetailsService.java) | Learning the service layer in a Spring Boot e-commerce project |
