@@ -76,3 +76,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-11-01 | [PetController.java](daily/2026-11-01/PetAdoption/src/main/java/com/petadoption/controller/PetController.java) | Learning REST controllers in a Spring Boot REST project |
 | 2026-11-24 | [JwtTokenUtil.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/JwtTokenUtil.java) | Learning a Spring Boot e-commerce project |
 | 2026-11-24 | [Token.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/models/Token.java) | Learning entity models in a Spring Boot e-commerce project |
+| 2026-11-24 | [ProductProjection.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/models/ProductProjection.java) | Learning entity models in a Spring Boot e-commerce project |
