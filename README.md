@@ -80,3 +80,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-11-24 | [JwtTokenFilter.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/JwtTokenFilter.java) | Learning a Spring Boot e-commerce project |
 | 2026-11-24 | [MyUserDetailsService.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/services/MyUserDetailsService.java) | Learning the service layer in a Spring Boot e-commerce project |
 | 2026-11-24 | [CorsConfig.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/CorsConfig.java) | Learning a Spring Boot e-commerce project |
+| 2026-11-24 | [UserController.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/controllers/UserController.java) | Learning REST controllers in a Spring Boot e-commerce project |
