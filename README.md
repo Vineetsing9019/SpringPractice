@@ -84,3 +84,4 @@ Spring Boot practice: classes from the projects I built while learning Spring (R
 | 2026-11-24 | [LoginDto.java](daily/2026-11-24/ShopKart/src/main/java/com/itvedant/shopkart/models/LoginDto.java) | Learning entity models in a Spring Boot e-commerce project |
 | 2026-11-25 | [Product.java](daily/2026-11-25/ShopKart/src/main/java/com/itvedant/shopkart/models/Product.java) | Learning entity models in a Spring Boot e-commerce project |
 | 2026-11-25 | [CartProjection.java](daily/2026-11-25/ShopKart/src/main/java/com/itvedant/shopkart/models/CartProjection.java) | Learning entity models in a Spring Boot e-commerce project |
+| 2026-11-25 | [ShopKartApplicationTests.java](daily/2026-11-25/ShopKart/src/test/java/com/itvedant/shop_kart/ShopKartApplicationTests.java) | Learning testing a Spring Boot e-commerce project |
